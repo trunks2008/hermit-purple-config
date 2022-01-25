@@ -1,0 +1,6 @@
+my:
+  name: John
+  friend:
+    name: Jay
+    sex: male
+run: yeah
